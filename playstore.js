@@ -1,4 +1,4 @@
-module.exports = [
+const STORE = [
     {
       "App": "ROBLOX",
       "Category": "GAME",
@@ -300,3 +300,5 @@ module.exports = [
       "Android Ver": "2.3.3 and up"
     }
   ];
+
+  module.exports = STORE;
